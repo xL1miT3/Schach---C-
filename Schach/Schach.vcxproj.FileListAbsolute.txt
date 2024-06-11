@@ -1,0 +1,3 @@
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\x64\Release\Schach.vcxproj.CopyComplete
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\x64\Release\Schach.exe
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\x64\Release\raylib.dll

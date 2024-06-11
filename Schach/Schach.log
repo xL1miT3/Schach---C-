@@ -1,0 +1,82 @@
+﻿  Spielfeld.cpp
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(247,61): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(247,80): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(248,63): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(248,83): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(250,33): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(250,53): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(250,84): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(250,103): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(251,32): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(251,51): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(268,33): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(268,52): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(269,34): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(269,54): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(274,59): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(274,79): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(279,89): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(279,109): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(284,88): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(284,108): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(291,37): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(291,57): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(294,37): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(294,57): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(294,100): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(294,120): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(295,55): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(295,75): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(340,71): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(340,41): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(341,72): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(341,42): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(352,126): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(410,50): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(410,58): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(412,20): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(412,28): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(426,20): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(426,28): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(456,33): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(456,58): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(555,33): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(555,53): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(559,44): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(559,65): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(561,96): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(561,117): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(562,48): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(562,69): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(570,79): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(570,99): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(572,59): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(572,82): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(573,56): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(573,79): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(577,83): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(577,103): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(579,59): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(579,82): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(580,56): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(580,79): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(584,83): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(584,103): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(586,59): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(586,82): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(587,56): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(587,79): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(591,84): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(591,104): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(593,59): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(593,82): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(594,56): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\Spielfeld.cpp(594,79): warning C4244: "Argument": Konvertierung von "float" in "const unsigned __int64", möglicher Datenverlust
+  Code wird generiert.
+  1 of 552 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  Schach.vcxproj -> C:\Users\Luca Ladusch\Documents\C++\C++ Games\Schach\x64\Release\Schach.exe
+  Der Befehl "pwsh.exe" ist entweder falsch geschrieben oder
+  konnte nicht gefunden werden.
